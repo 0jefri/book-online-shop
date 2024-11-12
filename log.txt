@@ -1,0 +1,9 @@
+{"level":"info","time":"2024-11-12T14:14:22.754+0700","message":"Processing order","name":"jefri","quantity":10,"amount":100000}
+{"level":"info","time":"2024-11-12T14:14:22.755+0700","message":"Executing query","repository":"OrderRepository","query":"INSERT INTO orders(name, quantity, diskon, amount, final_amount) VALUES($1, $2, $3, $4, $5)","name":"jefri","quantity":10,"amount":100000,"final_amount":90000}
+{"level":"info","time":"2024-11-12T14:14:22.760+0700","message":"Order created successfully","order_id":"653ab25a-2372-49d1-b4cc-f103276f7302"}
+{"level":"info","time":"2024-11-12T14:21:16.490+0700","message":"Processing order","name":"jefri","quantity":10,"amount":100000}
+{"level":"info","time":"2024-11-12T14:21:16.490+0700","message":"Executing query","repository":"OrderRepository","query":"INSERT INTO orders(name, quantity, diskon, amount, final_amount) VALUES($1, $2, $3, $4, $5)","name":"jefri","quantity":10,"amount":100000,"final_amount":90000}
+{"level":"info","time":"2024-11-12T14:21:16.494+0700","message":"Order created successfully","order_id":"584a1e41-b676-401a-9ba5-25e24591b81c"}
+{"level":"info","time":"2024-11-12T14:23:51.276+0700","message":"Processing order","name":"jefri","quantity":10,"amount":100000}
+{"level":"info","time":"2024-11-12T14:23:51.276+0700","message":"Executing query","repository":"OrderRepository","query":"INSERT INTO orders(name, quantity, diskon, amount, final_amount) VALUES($1, $2, $3, $4, $5)","name":"jefri","quantity":10,"amount":100000,"final_amount":90000}
+{"level":"info","time":"2024-11-12T14:23:51.280+0700","message":"Order created successfully","order_id":"2fef8108-efb3-478a-a4e0-7e1a662882dd"}
